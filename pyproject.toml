@@ -1,0 +1,12 @@
+[project]
+name = "sentinelgraph-ai"
+version = "0.1.0"
+description = "Explainable security-event investigation using synthetic data"
+requires-python = ">=3.10"
+dependencies = ["streamlit>=1.35,<2", "pandas>=2,<3", "networkx>=3,<4", "plotly>=5,<7", "fastapi>=0.110,<1", "uvicorn>=0.29,<1", "pydantic>=2,<3"]
+[project.optional-dependencies]
+dev = ["pytest>=8,<10", "httpx>=0.27,<1", "ruff>=0.6,<1"]
+[tool.pytest.ini_options]
+pythonpath = ["."]
+[tool.ruff]
+line-length = 100
