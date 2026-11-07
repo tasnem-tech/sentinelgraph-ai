@@ -1,4 +1,4 @@
-
+![SentinelGraph AI Concept Animation](sentinelgraph-demo.gif)
 <div align="center">
 
 # 🛡️ SentinelGraph AI
