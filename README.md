@@ -283,6 +283,6 @@ Repository: [SentinelGraph AI](https://github.com/tasnem-tech/sentinelgraph-ai)
 
 **Making cybersecurity investigations more transparent, visual, and understandable.**
 
-⭐ If you find this project useful, consider starring the repository.
+⭐ If you find this project useful, consider starring the repository..
 
 </div>
